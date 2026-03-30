@@ -1,3 +1,4 @@
+
 {
   "cartas": [
     {
@@ -6,6 +7,22 @@
       "mensaje": "Quería dejarte este regalito para que te compres lo que quieras en la tienda uwuwuwu",
       "fecha": "29 de Marzo",
       "imagen": "https://raw.githubusercontent.com/ElMonitoMC/Miamorlinsita/refs/heads/main/does-anyone-have-cinnamoroll-reaction-images-v0-e4za1ci2wvqg1.jpeg",
+      "regalo_puntos": 10000
+    }, 
+    {
+      "id": 2,
+      "titulo": "Komo cuando tú novia es mui wapa",
+      "mensaje": "👅👅👅👅👅",
+      "fecha": "30 de Marzo",
+      "imagen": "https://media.discordapp.net/attachments/936139006645788683/1488266581212532789/IMG-20260330-WA0003.jpg?ex=69cc27c3&is=69cad643&hm=572712bc66aa15777f070dd0a168be6215804a507b8fbdeb8a253e75d67727fa&=&width=636&height=473",
+      "regalo_puntos": 1000000
+    },
+    {
+      "id": 3,
+      "titulo": "Jijadelroña",
+      "mensaje": "como t acabaste el juego en media hora",
+      "fecha": "30 de Marzo",
+      "imagen": "https://media.discordapp.net/attachments/936139006645788683/1488267402234957844/images_22.jpeg?ex=69cc2887&is=69cad707&hm=c23c38373add963d5b46348101cc8ae5e30058b918a344de13c2f180a6113617&=&width=464&height=331",
       "regalo_puntos": 10000
     }
   ]
