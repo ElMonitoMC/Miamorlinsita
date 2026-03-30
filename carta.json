@@ -3,16 +3,10 @@
     {
       "id": 1,
       "titulo": "Para la niña más linda",
-      "mensaje": "Quería dejarte este regalito para que te compres lo que quieras en la tienda. ¡Te amo!",
+      "mensaje": "Quería dejarte este regalito para que te compres lo que quieras en la tienda uwuwuwu",
       "fecha": "29 de Marzo",
-      "imagen": "foto_nuestra.jpg",
+      "imagen": "https://raw.githubusercontent.com/ElMonitoMC/Miamorlinsita/refs/heads/main/does-anyone-have-cinnamoroll-reaction-images-v0-e4za1ci2wvqg1.jpeg",
       "regalo_puntos": 10000
-    },
-    {
-      "id": 2,
-      "titulo": "Solo paso a saludar",
-      "mensaje": "No hay regalo de puntos aquí, pero te regalo todo mi corazón. Toma mucha agua y cuídate hoy.",
-      "fecha": "30 de Marzo"
     }
   ]
 }
